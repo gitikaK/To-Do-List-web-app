@@ -68,7 +68,7 @@ button:hover {
 
 ul {
   list-style: none;
-  max-height: 300px;
+  max-height: 700px;
   overflow-y: auto;
 }
 
@@ -116,4 +116,5 @@ ul::-webkit-scrollbar-thumb {
   background-color: #dcdde1;
   border-radius: 5px;
 }
+
 
